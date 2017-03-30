@@ -1,4 +1,4 @@
-# Python-IMDb-Recommendation-Engine
+# Python-IMDb-Prediction-Engine
 Created a simple Prediction Engine based on IMDb ratings and social media presence
 
 Human behaviour has been a subject of fascination for many years and it is even more interesting when it comes to predicting Movie Ratings based on the responses of thousands of individuals on platforms like the IMDb.
