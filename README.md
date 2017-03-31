@@ -20,6 +20,6 @@ Such an exercise was necessary since these factors are more crucial than ever gi
 
 The generated models strive to predict the Movie Ratings with perfect accuracy, but since human behaviour is a complicated subject there are some assumptions which I made:
 1. Predictions within the range of +/-1.0 star for the Linear Models were considered Accurate
-2. Target variable 'Rating' was categories further into A--D divisions signifying the quality of the movie, "A" being Excellent
+2. Target variable 'Rating' was classified further into A--D categories signifying the quality of the movie, "A" being Excellent
 
 End Result: Achieved 79% Accuracy
